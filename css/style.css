@@ -163,7 +163,7 @@ input:focus{
     bottom: 0;
     width: 450px;
     left: 0;
-    padding: 30px 50px 10px 20px;;
+    padding: 20px 30px 10px 10px;;
 }
 .pop-up .data{
     display: flex;
@@ -1657,7 +1657,7 @@ footer .credit a{
 .casestudy-banner{
     position: relative;
     background: linear-gradient(180deg,#474ab6 0%,#9271f6 100%);
-    padding-top: 250px;
+    padding-top: 300px;
     padding-bottom: 300px;
 }
 .casestudy-banner h2{
